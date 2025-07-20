@@ -1,0 +1,190 @@
+[
+  {
+    "ContainingType": "RH.Api.Controllers.FeriasController",
+    "Method": "Get",
+    "RelativePath": "api/Ferias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.Api.Controllers.FeriasController",
+    "Method": "Post",
+    "RelativePath": "api/Ferias",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RH.Api.Dtos.CriarFeriasDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.Api.Controllers.FeriasController",
+    "Method": "Put",
+    "RelativePath": "api/Ferias/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "RH.Api.Dtos.FeriasPutDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.Api.Controllers.FeriasController",
+    "Method": "Delete",
+    "RelativePath": "api/Ferias/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.Api.Controllers.FuncionarioController",
+    "Method": "findAll",
+    "RelativePath": "api/Funcionario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.Api.Controllers.FuncionarioController",
+    "Method": "save",
+    "RelativePath": "api/Funcionario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "funcionario",
+        "Type": "RH.Api.Dtos.FuncionarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.Api.Controllers.FuncionarioController",
+    "Method": "findById",
+    "RelativePath": "api/Funcionario/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.Api.Controllers.FuncionarioController",
+    "Method": "update",
+    "RelativePath": "api/Funcionario/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "funcionario",
+        "Type": "RH.Api.Dtos.FuncionarioDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.Api.Controllers.FuncionarioController",
+    "Method": "delete",
+    "RelativePath": "api/Funcionario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.Api.Controllers.FuncionarioController",
+    "Method": "findWithOffice",
+    "RelativePath": "api/Funcionario/cargo/{cargo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cargo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.Api.Controllers.FuncionarioPdfController",
+    "Method": "GerarRelatorioFuncionarios",
+    "RelativePath": "api/FuncionarioPdf",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.Api.Controllers.SalarioController",
+    "Method": "Index",
+    "RelativePath": "api/Salario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "RH.Api.Dtos.ServiceResponse\u00601[[RH.Api.Dtos.MediaSalarialDto, RH.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abraa\\source\\repos\\RH.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|c:\\users\\abraa\\source\\repos\\rh.api\\rh.api\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|solutionrelative:rh.api\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|c:\\users\\abraa\\source\\repos\\rh.api\\rh.api\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|solutionrelative:rh.api\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|c:\\users\\abraa\\source\\repos\\rh.api\\rh.api\\services\\funcionariopdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|solutionrelative:rh.api\\services\\funcionariopdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|c:\\users\\abraa\\source\\repos\\rh.api\\rh.api\\controllers\\funcionariopdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|solutionrelative:rh.api\\controllers\\funcionariopdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|c:\\users\\abraa\\source\\repos\\rh.api\\rh.api\\controllers\\feriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|solutionrelative:rh.api\\controllers\\feriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|c:\\users\\abraa\\source\\repos\\rh.api\\rh.api\\services\\feriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|solutionrelative:rh.api\\services\\feriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|c:\\users\\abraa\\source\\repos\\rh.api\\rh.api\\dtos\\feriasputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|solutionrelative:rh.api\\dtos\\feriasputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|c:\\users\\abraa\\source\\repos\\rh.api\\rh.api\\data\\dbcontextaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009AC5A5-7E7D-4662-88B9-E85F570ACC03}|RH.Api\\RH.Api.csproj|solutionrelative:rh.api\\data\\dbcontextaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "RH.Api\\Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "RH.Api\\Models\\FuncionarioModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:19:26.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "RH.Api\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "RH.Api\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:19:14.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeriasPutDto.cs",
+              "DocumentMoniker": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Dtos\\FeriasPutDto.cs",
+              "RelativeDocumentMoniker": "RH.Api\\Dtos\\FeriasPutDto.cs",
+              "ToolTip": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Dtos\\FeriasPutDto.cs",
+              "RelativeToolTip": "RH.Api\\Dtos\\FeriasPutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:13:17.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeriasController.cs",
+              "DocumentMoniker": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Controllers\\FeriasController.cs",
+              "RelativeDocumentMoniker": "RH.Api\\Controllers\\FeriasController.cs",
+              "ToolTip": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Controllers\\FeriasController.cs",
+              "RelativeToolTip": "RH.Api\\Controllers\\FeriasController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:00:33.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeriasService.cs",
+              "DocumentMoniker": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Services\\FeriasService.cs",
+              "RelativeDocumentMoniker": "RH.Api\\Services\\FeriasService.cs",
+              "ToolTip": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Services\\FeriasService.cs",
+              "RelativeToolTip": "RH.Api\\Services\\FeriasService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:56:22.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionarioPdfController.cs",
+              "DocumentMoniker": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Controllers\\FuncionarioPdfController.cs",
+              "RelativeDocumentMoniker": "RH.Api\\Controllers\\FuncionarioPdfController.cs",
+              "ToolTip": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Controllers\\FuncionarioPdfController.cs",
+              "RelativeToolTip": "RH.Api\\Controllers\\FuncionarioPdfController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:38:17.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionarioPdfService.cs",
+              "DocumentMoniker": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Services\\FuncionarioPdfService.cs",
+              "RelativeDocumentMoniker": "RH.Api\\Services\\FuncionarioPdfService.cs",
+              "ToolTip": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Services\\FuncionarioPdfService.cs",
+              "RelativeToolTip": "RH.Api\\Services\\FuncionarioPdfService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:37:27.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContextAplication.cs",
+              "DocumentMoniker": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Data\\DbContextAplication.cs",
+              "RelativeDocumentMoniker": "RH.Api\\Data\\DbContextAplication.cs",
+              "ToolTip": "C:\\Users\\abraa\\source\\repos\\RH.Api\\RH.Api\\Data\\DbContextAplication.cs",
+              "RelativeToolTip": "RH.Api\\Data\\DbContextAplication.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAD4v0AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T17:02:20.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
