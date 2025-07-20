@@ -1,0 +1,18 @@
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-12">
+      <h2>Funcionários</h2>
+    </div>
+    <div class="col-md-4" *ngFor="let f of funcionarios">
+      <div class="card mb-4 shadow-sm">
+        <div class="card-body">
+          <h5 class="card-title">{{ f.name }}</h5>
+          <p class="card-text">{{ f.office }}</p>
+          <p class="card-text">Admissão: {{ f.dateAdmission | date:'dd/MM/yyyy' }}</p>
+          <span class="badge bg-success" *ngIf="f.active">Ativo</span>
+          <span class="badge bg-danger" *ngIf="!f.active">Inativo</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

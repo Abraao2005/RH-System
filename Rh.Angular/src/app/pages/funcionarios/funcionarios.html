@@ -1,0 +1,13 @@
+<div class="container mt-4">
+  <h2>Funcionários</h2>
+  <button class="btn btn-primary mb-3">Cadastrar Funcionário</button>
+  <div class="card mb-3">
+    <div class="card-body" *ngFor="let f of funcionarios">
+      <h5 class="card-title">{{ f.name }}</h5>
+      <p class="card-text">{{ f.office }}</p>
+      <button class="btn btn-outline-info btn-sm">Ver Detalhes</button>
+      <button class="btn btn-outline-warning btn-sm">Editar</button>
+      <button class="btn btn-outline-danger btn-sm">Desligar</button>
+    </div>
+  </div>
+</div>
